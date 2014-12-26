@@ -1,0 +1,18 @@
+{
+  "name": "pcfg_js",
+  "version": "0.0.0",
+  "author": "",
+  "main": "dest/js/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-typescript": "^0.4.6",
+    "kuromoji": "0.0.2",
+    "mocha": "*",
+    "power-assert": "^0.10.0",
+    "typescript": "^1.3.0"
+  },
+  "scripts": {
+  }
+}

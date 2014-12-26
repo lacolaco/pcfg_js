@@ -1,0 +1,16 @@
+{
+  "repos": [
+    {
+      "url": "https://github.com/borisyankov/DefinitelyTyped.git",
+      "ref": "master"
+    }
+  ],
+  "path": "typings",
+  "bundle": "typings/bundle.d.ts",
+  "dependencies": {
+    "kuromoji.d.ts": {
+      "repo": "https://github.com/laco0416/kuromoji.d.ts.git",
+      "ref": "7984196919cb09d068ed07b48928c94c7dd7f3eb"
+    }
+  }
+}
